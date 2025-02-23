@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I'm a passionate full stack developer from India</h3>
 
-# 💫 About Me:
+# 💫 Hover me :
 - 🌱 I’m currently learning **Microsoft CNTK and Jax**<br>- 👯 I’m looking to collaborate on **AI and React Projects**<br>- 💬 Ask me about **react, javascript, python, flask**<br>- 📫 How to reach me **vldhurwey@gmail.com**<br>- ⚡ Fun fact:|❤️ **PC Gaming (GamerTag: NICK)**
 
 
