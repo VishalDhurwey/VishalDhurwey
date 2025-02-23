@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate full stack developer from India</h3>
 
 # 💫 Hover me :
-- 🌱 I’m currently learning **Microsoft CNTK and Jax**<br>- 👯 I’m looking to collaborate on **AI and React Projects**<br>- 💬 Ask me about **react, javascript, python, flask**<br>- 📫 How to reach me **vldhurwey@gmail.com**<br>- ⚡ Fun fact:|❤️ **PC Gaming (GamerTag: NICK)**
+ - 🌱 I’m currently learning **Microsoft CNTK and Jax**<br>- 👯 I’m looking to collaborate on **AI and React Projects**<br>- 💬 Ask me about **react, javascript, python, flask**<br>- 📫 How to reach me **vldhurwey@gmail.com**<br>- ⚡ Fun fact:|❤️ **PC Gaming (GamerTag: NICK)**
 
 
 ## 🌐 Socials:
